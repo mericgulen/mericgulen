@@ -16,5 +16,5 @@ I'm @mericgulen , a passionate web developer with a focus on HTML, CSS, and Java
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-##Meriç Gülen
+Meriç Gülen
 
