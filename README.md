@@ -1,4 +1,3 @@
-mericgulen/README.md
 
 ### Hi there 👋
 
